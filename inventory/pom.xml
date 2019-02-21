@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product name="Lord of the Rings" price="1000" size="182" type="book"/>
+    <Product name="Thriller" price="2000" size="9" type="cd"/>
+    <Product name = "Game of Thrones" price ="5000" size = "500" type = "book"/>
+    <Product name="Suits" price="4500" size="8" type="cd"/>
+</Products>
